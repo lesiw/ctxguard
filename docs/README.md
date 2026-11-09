@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository has moved to [lesiw.io/tools/analyzers/ctxguard](https://github.com/lesiw/tools/tree/main/analyzers/ctxguard).
+
 # lesiw.io/ctxguard
 
 [![Go Reference](https://pkg.go.dev/badge/lesiw.io/ctxguard.svg)](https://pkg.go.dev/lesiw.io/ctxguard)
